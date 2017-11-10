@@ -1,4 +1,4 @@
-#import "RCTBridgeModule.h"
+#import <React/RCTBridgeModule.h>
 #import "TAGContainer.h"
 #import "TagContainerOpener.h"
 #import "TAGManager.h"

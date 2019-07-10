@@ -14,5 +14,5 @@ android {
 
 dependencies {
     compile project(':ReactAndroid')
-    compile 'com.google.android.gms:play-services-analytics:+'
+    compile 'com.google.android.gms:play-services-analytics:16.0.8'
 }
